@@ -18,6 +18,10 @@
 
 <h2 align="left">Languages and Tools</h2>
 
+<h2 align="left"><a href="mehmetakfyavuz@hotmail.com" target="_blank">
+    
+  </a></h2>
+
 ###
 
 <div align="left">
@@ -40,7 +44,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
 
@@ -51,7 +55,7 @@
 
 <div align="left">
   <a href="mehmetakfyavuz@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    
   </a>
 </div>
 
