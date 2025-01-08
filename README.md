@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am currently working in the industry.<br>📚 I develop projects with React, Javascript <br>🎯 I love learning new things and software<br>🎲 How can you reach me <link>mehmetakfyavuz@hotmail.com<link/> </p>
+<p align="left">✨ I am currently working in the industry.<br>📚 I develop projects with React, Javascript <br>🎯 I love learning new things and software<br>🎲 How can you reach me <link><p>mehmetakfyavuz@hotmail.com</p><link/> </p>
 
 ###
 
