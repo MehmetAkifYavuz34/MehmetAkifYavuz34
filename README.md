@@ -18,9 +18,10 @@
 
 <h2 align="left">Languages and Tools</h2>
 
-<h2 align="left"><a href="mehmetakfyavuz@hotmail.com" target="_blank">
+<h2 align="left"><div align="left">
+<a href="mehmetakfyavuz@hotmail.com" target="_blank">
     
-  </a></h2>
+  </a></div></h2>
 
 ###
 
