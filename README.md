@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello, my name is Mehmet. I began developing React<br>frontend applications a year ago. So far, I have worked<br>on small-scale projects and e-commerce websites. I am<br>committed to continuously enhancing my skills and<br>gaining more experience every day. I am passionate<br>about software development and eager to further<br>expand my expertise in this field.</p>
+<p align="left">I started my journey in software development 4 years ago with React Native, focusing on mobile application development. Over time, I transitioned into front-end development with React.js, where I’ve built modern, user-centric web interfaces. With a strong focus on UI/UX and a solid understanding of component-based architecture, I aim to deliver scalable and maintainable solutions. I’m a collaborative team player, always eager to learn, and I stay up-to-date with the latest trends in web technologies to bring innovative perspectives to every project.</p>
 
 ###
 
