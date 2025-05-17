@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ I am currently working in the industry.<br>📚 I develop projects with React, Javascript <br>🎯 I love learning new things and software<br>🎲 How can you reach me mehmetakfyavuz@hotmail.com</p><br>📚 I develop projects primarily with React, React Native, and JavaScript.</p><br>🎯 I love learning new things and continuously expanding my software development skills.</p>
+<p align="left">✨ I am currently working in the industry.<br>📚 I develop projects with React, Javascript <br>🎯 I love learning new things and software<br>🎲 How can you reach me mehmetakfyavuz@hotmail.com.<br>I develop projects primarily with React, React Native, and JavaScript.🎯 I love learning new things and continuously expanding my software development skills.<br></p>
 
 ###
 
